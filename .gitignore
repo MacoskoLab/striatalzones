@@ -1,0 +1,7 @@
+*.qs
+*.rds
+*.RData
+*.h5ad
+*.csv.gz
+.DS_Store
+.Rhistory

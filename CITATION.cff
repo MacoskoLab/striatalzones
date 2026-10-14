@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Spatial ligand-receptor analysis of human striatal zones (Slide-tags)"
+type: software
+authors:
+  - family-names: Kraft
+    given-names: Andrew W.
+    affiliation: "Broad Institute of MIT and Harvard; Massachusetts General Hospital"
+  - family-names: Macosko
+    given-names: Evan Z.
+    affiliation: "Broad Institute of MIT and Harvard; Massachusetts General Hospital"
+repository-code: "https://github.com/MacoskoLab/striatal-zones-LR"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-14"
+preferred-citation:
+  type: article
+  title: "Mesoscale molecular architecture of the striatum across cell types and adult aging"
+  authors:
+    - family-names: Kraft
+      given-names: Andrew W.
+    - family-names: Lee
+      given-names: Matthew
+    - family-names: Macosko
+      given-names: Evan Z.
+  journal: Cell
+  year: 2026

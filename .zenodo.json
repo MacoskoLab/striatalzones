@@ -1,0 +1,12 @@
+{
+  "title": "Spatial ligand-receptor analysis of human striatal zones (Slide-tags): code release",
+  "upload_type": "software",
+  "description": "R code for the spatially constrained ligand-receptor analysis comparing striatal Zone 1 and Zone 4 in human Slide-tags data (CellChat v2 database; radius, fixed-neighbor and density-matched sensitivity arms; donor-paired tests with permutation-null robustness), with figure scripts. Accompanies Kraft, Lee et al., Mesoscale molecular architecture of the striatum across cell types and adult aging, Cell (2026).",
+  "creators": [
+    {"name": "Kraft, Andrew W.", "affiliation": "Broad Institute of MIT and Harvard; Massachusetts General Hospital"},
+    {"name": "Macosko, Evan Z.", "affiliation": "Broad Institute of MIT and Harvard; Massachusetts General Hospital"}
+  ],
+  "license": "MIT",
+  "keywords": ["Slide-tags", "spatial transcriptomics", "striatum", "ligand-receptor", "CellChat"],
+  "access_right": "open"
+}
